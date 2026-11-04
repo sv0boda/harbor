@@ -1,0 +1,214 @@
+{
+  "LICENSE": {
+    "bytes": 18512,
+    "sha256": "dcabb3710a4a09d3314f9bb895e1fc803f7a22e31ab70f0fa76dd4912299f02e"
+  },
+  "RELEASE-NOTES-ALPHA.md": {
+    "bytes": 6517,
+    "sha256": "b599fb5b310f349e2b7f200e102f906b10dee8f5ef48ebf89851c32ebc0121fb"
+  },
+  "RELEASE-READINESS.md": {
+    "bytes": 4057,
+    "sha256": "9c31063ff6560a4b49f97840cfdf65235244330e0a0d0e2162f88bd209584bc7"
+  },
+  "VERSION": {
+    "bytes": 14,
+    "sha256": "ed41d33f787456abe92ea03b820e4c832b1e2b9e6867242eaea03258bae8d119"
+  },
+  "deploy/PORTABLE-ALPHA.md": {
+    "bytes": 8027,
+    "sha256": "95f0bbecff9b90c53e9094032b5746544b444af1f91c5515019fab02976ebb90"
+  },
+  "deploy/build-portable-alpha.py": {
+    "bytes": 6973,
+    "sha256": "9d2f61e40f1ad261ba9321d66a7d01f5e0daed8932c6744a6e11b2801e54a793"
+  },
+  "desk/app/harbor-alpha.hoon": {
+    "bytes": 14437,
+    "sha256": "f060a14a90e45ccea0f896390d800871b3cc8c86254ef251eb026c3843b5c92f"
+  },
+  "desk/lib/harbor-alpha-core.hoon": {
+    "bytes": 3956,
+    "sha256": "b5cb5498d4bf4d4bff2b9774f53230b6da4a966b28d8dd3b71a7b365a986d11f"
+  },
+  "desk/lib/harbor-alpha-import.hoon": {
+    "bytes": 490,
+    "sha256": "478f77585ec6f5632495667fce1fc42cbbf1e0c6e7d758c0a99a0f1af317099b"
+  },
+  "desk/lib/harbor-alpha-json.hoon": {
+    "bytes": 3365,
+    "sha256": "3bafff2e307b20d133c1d9da5fd89ba26c4109530475ea5c4370a291f6bc1717"
+  },
+  "desk/lib/harbor-alpha-network.hoon": {
+    "bytes": 1204,
+    "sha256": "c0b55ec701c8bd34ee38a5f38511285b4d7b3e2b39dca1096c1e173197c53179"
+  },
+  "desk/lib/harbor-alpha-outbox.hoon": {
+    "bytes": 1279,
+    "sha256": "9265a3dc9f9d2ab901cb1a65d4f8d694c29e3b28dffd3d918b5ec2286eae4a05"
+  },
+  "desk/lib/harbor-alpha-profile-json.hoon": {
+    "bytes": 897,
+    "sha256": "d52968ba73205a90406b5e7e7655727eb68a275f37eea5dfc3f2e7b1cae26037"
+  },
+  "desk/lib/harbor-octra-auth.hoon": {
+    "bytes": 1972,
+    "sha256": "d7f2be06adb4b2a7872d277be4b7af6025dad8c60ed9ab3d7e1cf5720ac7945d"
+  },
+  "desk/lib/harbor-octra-packet.hoon": {
+    "bytes": 1424,
+    "sha256": "cdadc4072b517504d4fd68974b511306f87ac612b84a5d8ca883533d92434b1d"
+  },
+  "desk/lib/harbor-octra-public.hoon": {
+    "bytes": 2085,
+    "sha256": "3defb5c8863dcfeb72cfe8e2db596c2a021368e2b9944fac8c8b298e41f9d1ce"
+  },
+  "docs/ALPHA-RELEASE-CHECKLIST.md": {
+    "bytes": 4799,
+    "sha256": "b9db1a0ef04ae851b5e5a64f6e683b886cba839ab7eea5b9189f55140df7242c"
+  },
+  "docs/ALPHA-USER-GUIDE.md": {
+    "bytes": 6993,
+    "sha256": "741aaeef64d0831451af0d540f3c29595e499f242cb6507bd41162174ce98255"
+  },
+  "docs/GALL-KEY-SAFETY.md": {
+    "bytes": 10118,
+    "sha256": "3077c469835b605f6c33a908ea86ebb7ee6089dd356487458736194ae9e3edfa"
+  },
+  "evidence/clay-integrity-lab-moon.json": {
+    "bytes": 343,
+    "sha256": "80fc43dbcb736f3e4a4a8580333021dc5663d46c1f879b1b587349b1093ee5fe"
+  },
+  "evidence/clean-moon-restore-boot-20261104.json": {
+    "bytes": 487,
+    "sha256": "afc6eca84250d1f2dac1983a00b67dfc9537e6f781a4c6f66e9879f8befaa671"
+  },
+  "evidence/cross-ship-lab-moons.json": {
+    "bytes": 765,
+    "sha256": "66c96958b28f8a8ae4709b324a727429853f50188e18517e2391b7504ca6cb82"
+  },
+  "evidence/custody-canary.json": {
+    "bytes": 714,
+    "sha256": "a1ac48ebcd9c0b8341d3b47da4281cead7fc6ecbdd9ad2120fe1b9603cfcd893"
+  },
+  "evidence/custody-lab-moon.json": {
+    "bytes": 1138,
+    "sha256": "f09dfb0ea0a7710ed7e458166dcb8974be0bbe7d3c302790f24aefc2c6570385"
+  },
+  "evidence/mainnet-alpha-summary.json": {
+    "bytes": 575,
+    "sha256": "7353141e010fe1e219a0ffb8dcc92ef4dc1f61c87144ae932010b4dc986aade4"
+  },
+  "evidence/provenance-lab-moon.json": {
+    "bytes": 722,
+    "sha256": "aad3ca5e534114c40794acc94aa360e774b5f3dd6efe5c42d80e5d4048f024b0"
+  },
+  "evidence/redacted-runtime-restart-moon.json": {
+    "bytes": 497,
+    "sha256": "0aea425fc6607e4ea84746349057afab46199d5dc0da34b8870766dfc8939247"
+  },
+  "integrations/distribution-notices/GPL-2.0.txt": {
+    "bytes": 17984,
+    "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+  },
+  "integrations/distribution-notices/INVENTORY.md": {
+    "bytes": 2830,
+    "sha256": "8d8fe78dee2271ff6aecd64b28e993df830cb8da852b2e8e11b04430bb83d750"
+  },
+  "integrations/distribution-notices/OCTRA-COPYING": {
+    "bytes": 948,
+    "sha256": "8c88868efc5a7cf4f5758a3c28a1ab0f3f208b781a339891ae713ea59ccef227"
+  },
+  "integrations/distribution-notices/URBIT-LICENSE.txt": {
+    "bytes": 1071,
+    "sha256": "b5d62c0a6f6b17ff490de29606527bf77b6509998ef07048488d659e2b719e52"
+  },
+  "integrations/distribution-notices/base-source-provenance.json": {
+    "bytes": 10146,
+    "sha256": "6c4524086d5e2a14e7887d03bb033f92f74ee82afca2cd3eb16c797f127b10f6"
+  },
+  "integrations/distribution-notices/provenance.json": {
+    "bytes": 855,
+    "sha256": "43a142ae80dcf595232970652c955004a8687bd0108c4bd42def6433f58e62e5"
+  },
+  "integrations/urbit-entropy-review/CUSTODY.md": {
+    "bytes": 2737,
+    "sha256": "f7d6d46f5b28663bb064c4d0f58ece6ba9af5dd742090213c5cb6ef889d43602"
+  },
+  "public-alpha/alpha-view.mjs": {
+    "bytes": 10136,
+    "sha256": "b7183ae19a36b75f2afd3cd4928df572fb0dea49df462a8b17498e1ca5b7d4fe"
+  },
+  "public-alpha/app.mjs": {
+    "bytes": 5146,
+    "sha256": "3d47817db4c90b3b4875f4d500755b464e21c1a871ee9719183597d0c692fb29"
+  },
+  "public-alpha/index.html": {
+    "bytes": 1329,
+    "sha256": "4e62097e41ab769d84f3ebfa138fbe9f470f8cf8fffafa34037d3677f18dd48d"
+  },
+  "public-alpha/network-picker.mjs": {
+    "bytes": 2687,
+    "sha256": "ca08f65625f53cb29a56f9e726e765509fb2be48d0d276b8f1ee31e07710b91e"
+  },
+  "public/pin-client.mjs": {
+    "bytes": 3844,
+    "sha256": "9026cd0c5c62674908318868b7208efcee29565662e8e9e91ef11e564302807d"
+  },
+  "public/style.css": {
+    "bytes": 14910,
+    "sha256": "959abfa0b2a2adeb9f8f7f3436bc42f40438b6a2f6eb6b1e8be7ea193d67efea"
+  },
+  "vendor/urbit-base/LICENSE.txt": {
+    "bytes": 1071,
+    "sha256": "b5d62c0a6f6b17ff490de29606527bf77b6509998ef07048488d659e2b719e52"
+  },
+  "vendor/urbit-base/lib/dbug.hoon": {
+    "bytes": 4083,
+    "sha256": "2e15cdd08bec3cbad24998101434606b9fbdad53050f8d35ccd7aff4a4d2f75c"
+  },
+  "vendor/urbit-base/lib/default-agent.hoon": {
+    "bytes": 1307,
+    "sha256": "70a8af06601e8d1b75b261b2ac8b2cb06d5622baa1d1b1f8fec9236ce167d113"
+  },
+  "vendor/urbit-base/lib/server.hoon": {
+    "bytes": 3870,
+    "sha256": "d0a566085300a6deae334b98c4844dc11e90f0315015a91e97c2fbb61db31d68"
+  },
+  "vendor/urbit-base/lib/skeleton.hoon": {
+    "bytes": 792,
+    "sha256": "c7c654a91c5dc1a535d4a76b019ec175955e52961b1ddff70ad49121208d20f5"
+  },
+  "vendor/urbit-base/mar/bill.hoon": {
+    "bytes": 715,
+    "sha256": "a0196da4970b8dfdee321a638040a564f95e8000f3b49eccc274ee8de2fae0ff"
+  },
+  "vendor/urbit-base/mar/hoon.hoon": {
+    "bytes": 9154,
+    "sha256": "a77a0a8e0cd772ae9e7aa8c50d17b783d1969c64f031b6dc1d71f9e63a1cd73e"
+  },
+  "vendor/urbit-base/mar/json.hoon": {
+    "bytes": 588,
+    "sha256": "1a9b61feb7d40dc94e682ba665c9f8d5d37c458868942d3b9e7b87562e538fc6"
+  },
+  "vendor/urbit-base/mar/kelvin.hoon": {
+    "bytes": 566,
+    "sha256": "f23c0150f240d040dd24d99bb54e02c4df736e0f4d2bd5654bbc304082c8125c"
+  },
+  "vendor/urbit-base/mar/mime.hoon": {
+    "bytes": 565,
+    "sha256": "f1b94f43735fd3a6b86f5cd4619851bc1af9145281f68a07724c4bea870de535"
+  },
+  "vendor/urbit-base/mar/noun.hoon": {
+    "bytes": 409,
+    "sha256": "7581328f74894baa376d3a80e370808dca3ad3af96bc0ef6e4ac299984744b89"
+  },
+  "vendor/urbit-base/mar/txt.hoon": {
+    "bytes": 7802,
+    "sha256": "cb76a42e114f3b8f3ac37d09bfe7b1b41bc5c54e6406c0c01fb249af6910bc5d"
+  },
+  "vendor/urbit-base/sys.kelvin": {
+    "bytes": 12,
+    "sha256": "0a66fa5dec5893d2e3a8e854c4d6c81d62882863e4c8574ce18da9daea5a7cc4"
+  }
+}

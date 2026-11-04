@@ -1,0 +1,22 @@
+{
+  "clean_ship": "~lordeg-nidnum-tiptux-ponryg",
+  "isolation_ship": "~lidred-nilrev-tiptux-ponryg",
+  "synthetic_canaries_only": true,
+  "wallets_accessed": 0,
+  "scope": "Cross-ship application permission check, not same-ship app isolation, host protection or an audit",
+  "observed": {
+    "timedOut": false,
+    "checkedProtected": true,
+    "publicAccepted": true,
+    "checkedPublic": true,
+    "protectedRejected": true,
+    "started": true
+  },
+  "protected_canary_unchanged": true,
+  "source_sha256": {
+    "lab-cross-ship.hoon": "e421b58e5facc97084a696b8040f1a1e493b8235e7d8fb1f6547928c647e17f4",
+    "lab-remote-echo.hoon": "31a95856e4cceebfa5ff11b09f65adacb45197ab1878b6c955d1d0d7905154a2"
+  },
+  "outcome": "passed",
+  "test_agents_suspended": true
+}

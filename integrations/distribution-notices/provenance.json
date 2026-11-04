@@ -1,0 +1,17 @@
+{
+  "urbit_license_reference": {
+    "commit": "5a187fededc4582a34fcd6055c67bb63e0917b94",
+    "url": "https://raw.githubusercontent.com/urbit/urbit/5a187fededc4582a34fcd6055c67bb63e0917b94/LICENSE.txt",
+    "sha256": "b5d62c0a6f6b17ff490de29606527bf77b6509998ef07048488d659e2b719e52",
+    "note": "All twelve installed base dependencies match this commit exactly after resolving its in-repository source links; see base-source-provenance.json."
+  },
+  "octra_copying": {
+    "commit": "549536d6fbe265a4aace02bc9b85b5313ebb4868",
+    "sha256": "8c88868efc5a7cf4f5758a3c28a1ab0f3f208b781a339891ae713ea59ccef227",
+    "source": "Previously verified pinned local upstream snapshot"
+  },
+  "gpl_text": {
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt",
+    "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ship": "fake ~zod",
+  "result": {
+    "lastActivationEntropyReadable": true,
+    "checked": true,
+    "publicCanaryOnly": true,
+    "canaryReadable": true
+  },
+  "sources": [
+    {
+      "name": "harbor-custody-canary",
+      "sha256": "4073752be2c1162f32e0a44e77ab61655bbeb0019e37bb40919065ffd34e6c44"
+    },
+    {
+      "name": "harbor-custody-probe",
+      "sha256": "d90aa520f965dcef7404802a680b15c10c9bb05fe3c2f1ad9ff32895a188eaaa"
+    }
+  ],
+  "seconds": 7.078,
+  "scope": "Ordinary local Gall agent reads only OUR disposable canary via %gv; target on-peek always refuses; outputs booleans only, no owner/wallet data or entropy values",
+  "live_planet_changed": false,
+  "test_agents_suspended": true
+}

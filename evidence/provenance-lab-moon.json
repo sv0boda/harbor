@@ -1,0 +1,20 @@
+{
+  "ship": "~lidred-nilrev-tiptux-ponryg",
+  "synthetic_local_canaries_only": true,
+  "wallets_accessed": 0,
+  "network_requests": 0,
+  "normal_request_positive_control": true,
+  "low_level_request_acknowledged": false,
+  "observed": {
+    "normalProvenance": true,
+    "forgedProvenance": false,
+    "forgedSeen": false,
+    "normalSeen": true
+  },
+  "scope": "Direct arvo-Gall request only. Failed request is not proof of app isolation or unforgeable provenance.",
+  "source_sha256": {
+    "lab-origin-target.hoon": "d7ada8636062974f54f819d575dff1ee3bcf02b8cee639adc9e77eabbf9d5971",
+    "lab-origin-probe.hoon": "fd9ced0c8144d3429b100b4de664db30aeed5e71e4c0f71344d2936159beb40d"
+  },
+  "test_agents_suspended": true
+}

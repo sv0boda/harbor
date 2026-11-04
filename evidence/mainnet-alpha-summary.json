@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-04",
+  "network": "mainnet-alpha",
+  "confirmed": true,
+  "transaction_hash": "12ea85d07cbf08616cea0d6d0d1a5076f38e5c825804bb579ae0963403da1365",
+  "epoch": 2308127,
+  "amount_raw": "1000",
+  "fee_raw": "1000",
+  "submission_attempts": 1,
+  "balance_after_raw": "3000",
+  "nonce_after": 1,
+  "signing": "Hoon in Gall",
+  "mainnet_and_devnet_receipts_survived_clean_restart": true,
+  "observation_only_rerun_passed": true,
+  "wallet_secrets_exported_from_ship": false,
+  "consensus_independently_validated": false,
+  "independent_security_audit": false
+}

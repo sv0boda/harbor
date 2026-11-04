@@ -1,0 +1,15 @@
+{
+  "stage": "verify",
+  "ship": "~lidred-nilrev-tiptux-ponryg",
+  "numeric_identity": 1552003041171576677,
+  "receipt_present": true,
+  "identity_matches_receipt": true,
+  "source_hashes_match_receipt": true,
+  "runtime_pid_before": 11026,
+  "runtime_pid_after": 11413,
+  "runtime_pid_changed": true,
+  "snapshot_redacted_after_restart": true,
+  "scope": "Process restart, not Gall on-load. Public canary only; no wallet access.",
+  "core_active_after_restart": true,
+  "desks_suspended": true
+}

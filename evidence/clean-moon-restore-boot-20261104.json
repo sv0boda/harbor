@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "identity_verified": true,
+  "http": {
+    "passed": true,
+    "checks": 68,
+    "scope": "fresh unfunded real moon ~lordeg-nidnum-tiptux-ponryg; no wallet or external RPC"
+  },
+  "original_pier_kept_offline": true,
+  "restored_pier_stopped_cleanly": true,
+  "parent_and_funded_moon_unchanged": true,
+  "wallet_import_or_payments": false,
+  "scope": "Same-host offline backup restore of the unfunded clean lab moon; not funded-wallet recovery or upgrade testing"
+}

@@ -1,0 +1,6 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>harbor · public alpha</title><link rel="stylesheet" href="./style.css"></head><body>
+<header class="top"><div class="wrap top-in"><a class="brand" href="./">harbor</a><span class="proto">public payments · alpha</span><span id="ship" class="ship"></span></div></header>
+<main class="wrap"><h1>your wallet, on your ship</h1><p id="status" class="status" role="status"></p><div id="view"></div></main>
+<footer class="wrap foot"><p>Import an existing test wallet. Keep its original recovery material. Use it only here while testing.</p><p>Private payments are deferred. A PIN is required for every public payment in this alpha.</p></footer>
+<dialog id="review" aria-labelledby="review-heading"><form id="approval"><h2 id="review-heading">review public payment</h2><p id="review-text"></p><label for="approval-pin">Payment PIN</label><input id="approval-pin" type="password" inputmode="numeric" autocomplete="off" minlength="4" maxlength="6" pattern="[0-9]{4,6}" required><div class="row"><button type="button" id="cancel">Cancel</button><button type="submit" id="approve" class="primary">Approve and send</button></div></form></dialog>
+<script type="module" src="./app.mjs"></script></body></html>

@@ -1,0 +1,28 @@
+{
+  "ship": "~lidred-nilrev-tiptux-ponryg",
+  "synthetic_canaries_only": true,
+  "wallets_accessed": 0,
+  "cross_desk_plaintext_snapshot": {
+    "lastActivationEntropyReadable": true,
+    "checked": true,
+    "publicCanaryOnly": true,
+    "canaryReadable": true
+  },
+  "redacted_snapshot": {
+    "checked": true,
+    "savedEntropyZero": true,
+    "savedCanaryZero": true
+  },
+  "redacted_core_positive_control": true,
+  "suspended_plaintext_still_readable": true,
+  "suspended_entropy_metadata_matches_saved_entropy": false,
+  "redacted_reload_drops_core_canary": true,
+  "test_agents_suspended": true,
+  "source_sha256": {
+    "lab-redact-probe.hoon": "c20a68a91b7e8b21b2bdc0662734f116542e13b38e792a1bd4b20b7c5b52ef11",
+    "harbor-custody-probe.hoon": "271e67b70c72526247ab864317b6e411e7884a103b70d0d71414f4d01dbd14ff",
+    "harbor-custody-canary.hoon": "08c1574f707746368c51fe29d2dbea5b3652cd239b7330458b43f1518a2011c9",
+    "lab-redacted.hoon": "9bbf757aee42ee2ecdc5a481dfe582fadb9ab6127968cfe0b9d15c08abcf01c7"
+  },
+  "scope": "Tests %gv only. Redaction is not encryption or proof of isolation from all local apps/host/event log."
+}
