@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/harbor-logo.png" alt="Harbor — white Carthage harbor symbol on a blue square" width="160" height="160">
+</p>
+
 # Harbor
 
 An Octra wallet on Urbit: import an existing wallet and make public payments, with signing and persistent wallet state in Gall.

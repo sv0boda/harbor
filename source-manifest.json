@@ -15,6 +15,10 @@
     "bytes": 14,
     "sha256": "ed41d33f787456abe92ea03b820e4c832b1e2b9e6867242eaea03258bae8d119"
   },
+  "assets/harbor-logo.png": {
+    "bytes": 1060652,
+    "sha256": "fa229b2e9c4f23b05e0f9bb31525deb2cfc658c9dd26b020272d30d9a711389f"
+  },
   "deploy/PORTABLE-ALPHA.md": {
     "bytes": 8027,
     "sha256": "95f0bbecff9b90c53e9094032b5746544b444af1f91c5515019fab02976ebb90"
